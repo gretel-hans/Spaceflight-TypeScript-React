@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 4em;
 }
 
 .App-logo {
@@ -36,3 +37,21 @@
     transform: rotate(360deg);
   }
 }
+
+.articlePic{
+  width:100%;
+  height:16em;
+}
+
+.article-p{
+  height: 2.4em;
+    overflow-x: scroll;
+}
+a:link{
+  text-decoration: none;
+}
+.articlebg{
+  margin: 0 auto;
+  width: 75%;
+}
+#logo{width:7em}
